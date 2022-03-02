@@ -1,0 +1,13 @@
+"use strict";
+let unionArray;
+unionArray = ["pato", 2];
+unionArray.push("pata", 3);
+console.log(unionArray);
+let stringArray;
+stringArray = ["Ayrton", "Luis", "Barbosa"];
+stringArray.push("Rodrigues");
+console.log(stringArray);
+let numberArray;
+numberArray = [2, 3, 4];
+numberArray.push(5);
+console.log(numberArray);
