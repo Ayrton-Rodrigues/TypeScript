@@ -21,6 +21,7 @@ function cadastroUsuario(propriedade: Usuario){
 console.log(propriedade.status)
 console.log(propriedade.nome)
 console.log(propriedade.idade)
+
 }
 
 cadastroUsuario({nome: "Ayrton",idade: 26, status: true})
